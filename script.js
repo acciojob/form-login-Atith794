@@ -6,4 +6,4 @@ function getFormvalue() {
 	alert(fn+" "+ln);
 }
 
-getFormvalue();
+// getFormvalue();
